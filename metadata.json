@@ -1,6 +1,0 @@
-{
-  "name": "ShikshaSathi AI",
-  "description": "Voice-first, dialect-aware AI learning platform empowering rural, visually impaired, and neurodivergent students across India.",
-  "requestFramePermissions": ["camera", "microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
